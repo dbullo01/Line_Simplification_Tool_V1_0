@@ -1,0 +1,2 @@
+# Line_Simplification_Tool_V1_0
+Final Year Dissertation - Comparison of Line Simplification Algorithms. Java 7 Swing/AWT GUI Application interactively  showing 7 algorithms processing steps. Line performance measures and metrics have also been implemented to allow users to see the strengths and weaknesses of a particular line simplification algorithm for cartographic line simplification and model generalization purposes
